@@ -5,3 +5,5 @@ y = []
 for i in x:
     y.append(i)
 print(y)
+
+# adding some new lines for studies purpose.
